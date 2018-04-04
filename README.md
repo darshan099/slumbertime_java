@@ -1,7 +1,9 @@
 # slumbertime_java
 simple and fun programs using java
 1) Lychrel number
+
 File name: palennum.java
+
 Summary: The reverse-and-add process produces the sum of a number and the number formed by reversing the order of its digits. For example, 56 + 65 = 121. As another example, 125 + 521 = 646.
 
 Some numbers become palindromes quickly after repeated reversal and addition, and are therefore not Lychrel numbers. All one-digit and two-digit numbers eventually become palindromes after repeated reversal and addition.
@@ -17,7 +19,9 @@ whereas some numbers like 196, 691 etc. doesn't resolve into a palindrome even a
 Source: https://en.wikipedia.org/wiki/Lychrel_number
 
 2) 4 Colour Theorem:
+
 File name: randomestate.java
+
 Summary: In a map, the regions can be colored using at most four colors so that no two adjacent regions have the same color', needs to be interpreted appropriately to be correct.
 
 Source: https://en.wikipedia.org/wiki/Four_color_theorem
